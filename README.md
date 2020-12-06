@@ -1,6 +1,9 @@
 # About Me
-My name is Amber and I'm a student of mathematics in the mathematics department at [UCD](https://www.ucdenver.edu/). ![tired](img/tired.gif) I like to mess around with Linux and FOSS.
+## Peronal
+I am a MtF trans trynna fit it with the tech nerds 😸. I like to tinker with libre FOSS things and, likewise, Linux.
+## School
+![tired](img/tired.gif) I am a student of mathematics at [UCD](https://ucdenver.edu/), studying mathematics in the department of [Mathematical and Statistical Sciences](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/) at [CLAS](https://clas.ucdenver.edu/).
 ## Skills
-I am mainly skilled at LaTeX, POSIX Shell, a little C, and looking things up. 😀
-## Setup
-![My Setup](img/desktop.png)
+![pat](img/pat.gif) I mainly work on FOSS projects and do things related to LaTeX, POSIX Shell, and C. I am currently learning dotnet CORE and ECMA javascript.
+# Setup
+![setup](img/desktop.png)

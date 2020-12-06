@@ -1,4 +1,5 @@
 # About Me
+![me](img/me.png)
 ## Peronal
 I am a MtF trans trynna fit it with the tech nerds 😸. I like to tinker with libre FOSS things and, likewise, Linux.
 ## School

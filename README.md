@@ -1,6 +1,6 @@
 # About Me 私の事について
 ## Peronal 一身上
-![ok](img/ok.gif)I am a MtF trans trynna fit it with the tech nerds 😸. I like to tinker with libre FOSS things and, likewise, Linux.
+![ok](img/ok.gif)I am a MtF trans trynna fit in with the tech nerds 😸. I like to tinker with libre FOSS things and, likewise, Linux.
 男性の体で生まれましたが、心は女性だと感じます。「トランズ」ということです。FOSSのようなことをするのが好き、具体的に、Linuxが好きですね。
 ## School 学校
 ![tired](img/tired.gif) I am a student of mathematics at [UCD](https://ucdenver.edu/), studying mathematics in the department of [Mathematical and Statistical Sciences](https://clas.ucdenver.edu/mathematical-and-statistical-sciences/) at [CLAS](https://clas.ucdenver.edu/).

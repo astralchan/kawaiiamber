@@ -19,3 +19,5 @@ kawaiiamber@matrix.org
 KawaiiAmber#7588
 ### Pleroma
 kawaiiamber@kiwifarms.cc
+
+I don't bite ;) You can even add me on VR Chat - KawaiiAmber or NeosVR - kawaiiamber if you want. OwO

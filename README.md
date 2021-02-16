@@ -9,8 +9,10 @@
 ![pat](img/pat.gif) I mainly work on FOSS projects and do things related to LaTeX, POSIX Shell, and C. I am currently learning dotnet CORE and ECMA javascript. 暇の時で、一番目の普通を働くことがCやPOSIX ShellやLaTeXのよう事です。最近、dotnet COREやECMA javascriptを習っています。
 # Setup システム
 ![setup](img/desktop.png)
-## Contact
+## Contact 連絡
 If you want to contact me outside of my email (japaneselearning101@gmail.com):
+
+もしeメール以外、私と話したいたら:
 ### Matrix
 kawaiiamber@matrix.org
 ### Discord

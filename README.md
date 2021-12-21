@@ -8,6 +8,6 @@ If you want to contact me outside of my email (japaneselearning101@gmail.com):
 ### Matrix
 kawaiiamber@matrix.org
 ### Discord
-KawaiiAmber#7588
+\_\_amber\_\_#7588
 ### Pleroma
 kawaiiamber@kiwifarms.cc
